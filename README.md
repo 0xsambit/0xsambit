@@ -1,5 +1,5 @@
 # 💫 About Me: I am SAMBIT SINGHA
-🔭 I’m currently working on Commercial Projects<br>👯 I’m looking to collaborate on Open Source Projects <br>🌱 I’m currently learning Next.js and TypeScript<br>💬 Ask me about Javascript , Rust
+🔭 I’m currently working on Commercial and Production Level applications<br>👯 I’m looking to collaborate on Open Source Projects <br>🌱 I’m currently learning TypeScript and Postgresql <br>💬 Ask me about next.js , React.js and React Native
 
 
 ## 🌐 Socials:
